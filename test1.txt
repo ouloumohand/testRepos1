@@ -1,0 +1,10 @@
+ Volume in drive G is Study_Work
+ Volume Serial Number is 56FD-753A
+
+ Directory of G:\Source\Repos\folderproject
+
+04/03/2017  11:46 PM    <DIR>          .
+04/03/2017  11:46 PM    <DIR>          ..
+04/03/2017  11:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,346,942,464 bytes free
